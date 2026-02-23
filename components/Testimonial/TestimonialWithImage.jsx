@@ -15,7 +15,7 @@ export default function TestimonialWithImage({
             <div className='testimonial-with-image-text'>
                 <img 
                     className="quote-icon"
-                    src="./components/images/quote.png" 
+                    src="/images/quote.png" 
                 />
                 <p>{text}</p>
                 <h4>

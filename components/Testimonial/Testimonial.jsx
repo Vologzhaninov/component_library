@@ -21,7 +21,7 @@ export default function Testimonial({
                     {fullname}
                     <img 
                         className="testimonial-path-icon"
-                        src="./components/images/path.png" alt="Path Icon"/>
+                        src="/images/path.png" alt="Path Icon"/>
                     <span>
                         {`${company}, ${position}`}
                     </span>                    
