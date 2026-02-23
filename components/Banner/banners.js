@@ -6,7 +6,7 @@ export default [
         title_color: "#047857",
         title: "Congratulations!",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam.",
-        icon: "./images/check_circle.png"
+        icon: "/images/check_circle.png"
     },
     {
         schema: "warning",
@@ -15,7 +15,7 @@ export default [
         title_color: "#B45309",
         title: "Attention!",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam quo totam eius aperiam dolorum.",
-        icon: "./images/exclamation.png"
+        icon: "/images/exclamation.png"
     },
     {
         schema: "error",
@@ -24,7 +24,7 @@ export default [
         title_color: "#B45309",
         title: "There is a problem with your application",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam quo totam eius aperiam dolorum.",
-        icon: "./images/x_circle.png"
+        icon: "/images/x_circle.png"
     },
     {
         schema: "neutral",
@@ -33,6 +33,6 @@ export default [
         title_color: "#1C51B9",
         title: "Update available",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam.",
-        icon: "./images/info.png"
+        icon: "/images/info.png"
     }
 ]

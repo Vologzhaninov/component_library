@@ -271,7 +271,7 @@ h3, h4 {
     width: 24em;
     height: 35em;
     background-color: #F9FAFB;
-    background-image: url("./images/dot_pattern.png");
+    background-image: url("/images/dot_pattern.png");
     background-size: 80%;
     background-repeat: no-repeat;
     background-position-x: -4em;
