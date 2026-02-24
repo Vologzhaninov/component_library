@@ -1,5 +1,5 @@
 # React component library solo project
-UI design from Scrimba
+with different layout for mobile and desktop version, UI design from Scrimba
 
 ## About Scrimba
 
